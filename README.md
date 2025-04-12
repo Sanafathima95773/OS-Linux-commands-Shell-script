@@ -3,8 +3,9 @@ Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
-Name : Sana Fathima H
+```Name : Sana Fathima H
 Register Number : 212223240145
+```
 
 # AIM:
 To practice Linux Commands and Shell Scripting
